@@ -48,7 +48,10 @@ class TwoLayerNet(object):
         # weights and biases using the keys 'W2' and 'b2'.                         #
         ############################################################################
         # *****START OF YOUR CODE (DO NOT DELETE/MODIFY THIS LINE)*****
-
+        self.params['W1'] = np.random.normal(0,weight_scale,(input_dim,hidden_dim))
+        self.params['b1'] = np.zeros((hidden_dim,))
+        self.params['W2'] = np.random.normal(0,weight_scale,(hidden_dim,num_classes))
+        self.params['b2'] = np.zeros((num_classes,))
         pass
 
         # *****END OF YOUR CODE (DO NOT DELETE/MODIFY THIS LINE)*****
@@ -82,7 +85,17 @@ class TwoLayerNet(object):
         # class scores for X and storing them in the scores variable.              #
         ############################################################################
         # *****START OF YOUR CODE (DO NOT DELETE/MODIFY THIS LINE)*****
-
+        W1, b1 = self.params['W1'], self.params['b1']
+        W2, b2 = self.params['W2'], self.params['b2']
+        reg = self.reg
+        N = X.shape[0]
+        D = W1.shape[0]
+        X = X.reshape((N,D))
+        Z1 = X.dot(W1) + b1
+        Z1[Z1<=0] = 0
+        A1 = Z1
+        Z2 = A1.dot(W2) + b2
+        scores = Z2
         pass
 
         # *****END OF YOUR CODE (DO NOT DELETE/MODIFY THIS LINE)*****
@@ -106,7 +119,23 @@ class TwoLayerNet(object):
         # of 0.5 to simplify the expression for the gradient.                      #
         ############################################################################
         # *****START OF YOUR CODE (DO NOT DELETE/MODIFY THIS LINE)*****
-
+        scores -= scores.max()
+        correct = scores[range(N), y]
+        correct_exp = np.exp(correct)
+        loss = np.sum(-np.log(correct_exp/np.sum(np.exp(scores),axis = 1)))/N
+        loss += 0.5*reg * (np.sum(W1*W1) + np.sum(W2*W2))
+        
+        num = np.exp(scores[range(N), y])
+        denom = np.sum(np.exp(scores),axis = 1)
+        mask = (np.exp(Z2)/denom.reshape(scores.shape[0],1))
+        mask[range(N),y] = -(denom - num)/denom
+        mask /= N
+        grads['W2'] = A1.T.dot(mask) + reg*W2
+        grads['b2'] = np.sum(mask, axis=0)#mask.dot(np.ones((mask.shape[1],1)))
+        PD = mask.dot(W2.T)
+        PD[Z1==0] = 0
+        grads['W1'] = X.T.dot(PD) + reg*W1
+        grads['b1'] = np.sum(PD,axis = 0)
         pass
 
         # *****END OF YOUR CODE (DO NOT DELETE/MODIFY THIS LINE)*****
@@ -170,7 +199,13 @@ class FullyConnectedNet(object):
         #                                                                          #
         ############################################################################
         # *****START OF YOUR CODE (DO NOT DELETE/MODIFY THIS LINE)*****
-
+        self.params['W1'] = np.random.normal(0, weight_scale, (input_dim, hidden_dims[0]))
+        self.params['b1'] = np.zeros((hidden_dims[0]))
+        for i in range(self.num_layers-2):
+            self.params['W'+str(i+2)] = np.random.normal(0,weight_scale,(hidden_dims[i],hidden_dims[i+1]))
+            self.params['b'+str(i+2)] = np.zeros((hidden_dims[i+1],))
+        self.params['W'+str(self.num_layers)] = np.random.normal(0,weight_scale,(hidden_dims[-1],num_classes))
+        self.params['b'+str(self.num_layers)] = np.zeros((num_classes,))
         pass
 
         # *****END OF YOUR CODE (DO NOT DELETE/MODIFY THIS LINE)*****
@@ -215,7 +250,22 @@ class FullyConnectedNet(object):
         #                                                                          #
         ############################################################################
         # *****START OF YOUR CODE (DO NOT DELETE/MODIFY THIS LINE)*****
-
+        hidden_num = self.num_layers - 1
+        scores = X
+        cache_history = []
+        L2reg = 0
+        for i in range(hidden_num):
+            scores, cache = affine_relu_forward(scores, self.params['W%d' % (i + 1)],self.params['b%d' % (i + 1)])
+            cache_history.append(cache)
+            if self.use_dropout:
+                scores, cache = dropout_forward(scores, self.dropout_param)
+                cache_history.append(cache)
+            L2reg += np.sum(self.params['W%d' % (i + 1)] ** 2)
+        i += 1
+        scores, cache = affine_forward(scores, self.params['W%d' % (i + 1)],self.params['b%d' % (i + 1)])
+        cache_history.append(cache)
+        L2reg += np.sum(self.params['W%d' % (i + 1)] ** 2)
+        L2reg *= 0.5 * self.reg
         pass
 
         # *****END OF YOUR CODE (DO NOT DELETE/MODIFY THIS LINE)*****
@@ -240,7 +290,17 @@ class FullyConnectedNet(object):
         # of 0.5 to simplify the expression for the gradient.                      #
         ############################################################################
         # *****START OF YOUR CODE (DO NOT DELETE/MODIFY THIS LINE)*****
-
+        loss, dout = softmax_loss(scores, y)
+        loss += L2reg
+        dout, grads[f'W{i+1}'], grads[f'b{i + 1}'] = affine_backward(dout, cache_history.pop())
+        grads[f'W{i+1}'] += self.reg * self.params[f'W{i+1}']
+        i -= 1
+        while i >= 0:
+            if self.use_dropout:
+                dout = dropout_backward(dout, cache_history.pop())  
+            dout, grads['W%d' % (i + 1)], grads['b%d' % (i + 1)] = affine_relu_backward(dout, cache_history.pop())
+            grads['W%d' % (i + 1)] += self.reg * self.params['W%d' % (i + 1)]
+            i -= 1
         pass
 
         # *****END OF YOUR CODE (DO NOT DELETE/MODIFY THIS LINE)*****
