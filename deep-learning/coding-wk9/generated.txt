@@ -1,23 +1,520 @@
-Epoch: 0Epoch: 0[SOS]KIRK: Bones, you will not destroy the time to antimatter, and the answers are not a solar captain of the entire computer distress call for me. I don't know what he can read the thoughts now it is beau
-[SOS]SPOCK: If I don't know what you have to be a completely transfer to destroy your people to contact with the ship is completely bearing the sensors we can't do that the twelve hundred the transporter r
-[SOS]KIRK: There's no tractor beam to me.[EOS][SOS]KIRK: I was a damage of the ship what's the situation is where the system, it was not that thing.[EOS][SOS]SPOCK: I am not know, the other mind and the people. You know y
-[SOS]KIRK: Mister Spock.[EOS][SOS]SPOCK: Captain, I was not a Vulcan things he must be still be one of this course. Come. Possibly it has the creature we provided the same first time back to the computer contact.[EOS]
-[SOS]MCCOY: I don't have to be some way with the Klingon is not beautiful. There is no good is completely that and a way the pain is. I will take him to their control control is through the means and condi
-[SOS]KIRK: You can do it?[EOS][SOS]SPOCK: I am a person with you to the surface we should a security level. I see what we can't really don't know that they were that way.[EOS][SOS]KIRK: I don't want to know what you know 
-[SOS]KIRK: What happened to you to us.[EOS][SOS]KIRK: Scotty, we can save my very planet before you and I am going to do that the way the same signal, Captain. We were a report?[EOS][SOS]SPOCK: I am the planet signal the 
-[SOS]KIRK: And now behind your ship is a course, don't you think the crewman and the starship Enterprise.[EOS][SOS]KIRK: This is not a simple explanations.[EOS][SOS]KIRK: Spock.[EOS][SOS]SPOCK: A man have been a chance the secret
-[SOS]KIRK: I don't have the strong science of the ship is the way you can do to the same ask your power of the surface with the questions to stay to Starfleet Command. He said it's not for your people as t
-[SOS]MCCOY: And you can read the surface on the first the ship. The Providers, the other will not read the ship is an even destruct of the ship was a beautiful. Doctor McCoy.[EOS][SOS]MCCOY: I cannot be the chance
-[SOS]SPOCK: Captain, I do not want to keep the computer company.[EOS][SOS]KIRK: The believe the very failure as you were one of the ship. The warp factor two. The permission to the ship to your considerate the lig
-[SOS]SPOCK: Sensors are not a day. I was dead to his way the crewman to the planet to be some second the prisoner of the best to the Enterprise, when I have been a planet to the entire prepare a starship c
-[SOS]MCCOY: Perhaps you have a planet's engineer in the computer in the ship was wrong. The Captain. They're the transporter control. There is a patients are ready to be sentence of the service there is so
-[SOS]MCCOY: Spock! No survivors of the best of the computer compare the rest of you to stay here. This is Captain Kirk. It's the chance that I sure you don't believe you see the reason be the greatest inte
-[SOS]COMPUTER: One of your situation people are commander.[EOS][SOS]KIRK: The proportion, Mister Scott. Stand between the death. Oh, I can should have the distance on it. I want to have to do it, Mister Spock, wha
-[SOS]DEELA: We are not transfer to imperfect to see the last mine of the power is the starship. We can find the computer than completely one could be the creature is the computer computers are still out. T
-[SOS]KIRK: You have some kind of evidence.[EOS][SOS]SPOCK: They sit a power to me to see the first interesting human subject of the ship. I've seen the building of it in the death and experience to standing by.[EOS][SOS]M
-[SOS]KIRK: No signal to stay, are the people, it's the path of the transporter room is an alloyed the captain is the took a strongluments are not sure you were the search power and you took your orders in 
-[SOS]SPOCK: Sound that we can step the person.[EOS][SOS]KIRK: He said you are a speculations are not a chance. No dead.[EOS][SOS]KIRK: What's the computer level stations.[EOS][SOS]SPOCK: I don't think they should be one of the pl
-[SOS]SPOCK: Yes. We have helped your ship. I want to do is the universe, sir.[EOS][SOS]KIRK: Possibly to be a close for that must be the open, but the same way, are you sure the entire controls.[EOS][SOS]SPOCK: Not the st
+Epoch: 0 
+
+[SOS]KIRK: It was my planets.[EOS][SOS]KIRK: Why did you think you will stay here without a whole point of resting. No. I have any time to be possibly with the people to do as I think it seems to do it.[EOS][SOS]KIRK: No,
+[SOS]SPOCK: We have no explanation of the truth is one of the logical power will be there is no way to me.[EOS][SOS]ANAN: There would be a man and the transporter room. Come on, Captain. We will be able to talk to
+[SOS]KIRK: Lieutenant Uhura, since the orders.[EOS][SOS]KIRK: He was an interest for the time of the only one signal and no words will not be all right.[EOS][SOS]KIRK: The machine would speak to my life.[EOS][SOS]KIRK: You were w
+[SOS]SPOCK: I srow slowly enough to look at the parallels.[EOS][SOS]SCOTT: Aye, sir.[EOS][SOS]KIRK: We can get the transporter room. It was a spaceship out of my ship. They are still any information?[EOS][SOS]SPOCK: There would b
+[SOS]SPOCK: The computer on this ship will stay about it.[EOS][SOS]SPOCK: Sub could take a hunt the force field is the ship last of the captain is many message. I'm sorry. I was too late to the Denevan may be a su
+[SOS]SPOCK: I am officer is the creature starts to see that the distress, Captain.[EOS][SOS]KIRK: How do you want to say it was a man to the Enterprise and where the same crew of my life for the orders and he does
+[SOS]MCCOY: We've got to be the good of the Enterprise is not a man was the star history with your study.[EOS][SOS]SPOCK: I see what you can do anything the helm we don't believe in the course for the force field.
+[SOS]MCCOY: In a minute, Captain. I would have to be a long to this involved and contact the ship.[EOS][SOS]KIRK: What do you mean what happened to the power than a rest of the good identify your controls, gentlem
+[SOS]MCCOY: He was a hole in the captain. You will stay here?[EOS][SOS]SPOCK: I suggesting my contact with the facts and say there are the man here is a case, Captain. The section to beam up there.[EOS][SOS]MCCOY: I can't
+[SOS]KIRK: Where is the computer and speed. I did not be mine, Captain.[EOS][SOS]KIRK: It does not believe it.[EOS][SOS]KIRK: Mister Spock, you were a starship is the captain?[EOS][SOS]KIRK: The life and the ship will not stop th
+[SOS]SPOCK: Lieutenant Uhura here, Captain. The decision with a mental after a new seconds.[EOS][SOS]SCOTT: It's not a signal to any other things and a woman.[EOS][SOS]KIRK: I know the tricorder from the transporter room.
+[SOS]MCCOY: The security tentered of the answers to see the transporter room, Captain.[EOS][SOS]KIRK: Can you understand that we have no machine with that. I'll take you all the to any other fact what we start com
+[SOS]SPOCK: The better than a planet set and the last of the Mister Spock.[EOS][SOS]SPOCK: If it would be the unit the engineering bodies in some words and it is in the man there. I don't want to do this in the fa
+[SOS]SPOCK: That is a mind to contact the destination of ship is a planet in the colony. What is it?[EOS][SOS]KIRK: I don't like a bridge. It will be a matter and a point in the captain with the time was well they
+[SOS]KIRK: All right. May I don't know why they got a ship has gone to the men all this area to us. And what makes me to be the course and he can all systems in the attack on the rest of the fourth starshi
+[SOS]KIRK: What is the things I can be too much to do with the ship to a strong speed to the quadrant to stay and since to the right to the transporter room. They're being control of this computer of energ
+[SOS]KIRK: What was your medical sensors from the ship.[EOS][SOS]VINA: The matter with your transported to the captain is the matter with your opens the need to make a sort of an answer to decent and sterilisation
+[SOS]SPOCK: Set the creature, or I should show a perfect society to me to the Captain will be programmed to be in the seconds.[EOS][SOS]MCCOY: I'm ground with your ship. I should have come in.[EOS][SOS]KIRK: Can you do th
+[SOS]KIRK: The meaning is the new course for a starship all to her on the Federation on the ship with you.[EOS][SOS]KIRK: I wonder what happened to the force field. I want to be a signal and no one is not of the c
+[SOS]KIRK: If we are to contact me. Kirk to Enterprise.[EOS][SOS]SCOTT: The life form men. I want to control the ship to the transporter room. We're going to take it. I feel all ship has instruments mean, a death 
+
+
+
+
+Epoch: 1 
+
+[SOS]KIRK: I'm sorry. I can try to read what are the ship. That's finally control course of an illusion of a controls manage to find extremely beam down on the ship on the late 1920 sir.[EOS][SOS]KIRK: The differe
+[SOS]KIRK: The computer absolutely the distress signals in one hundred and three more planets. We are the ancient facts, and I guess that is the men could recognise the million years to kill it and the fir
+[SOS]KIRK: What is it?[EOS][SOS]KIRK: Are you sure they couldn't be a presume the analysis and the strength, our problems are to see it. I've been attacked your pure you would be interested in the best position.[EOS][SOS]
+[SOS]KIRK: Yes, I have to go beam us out of here.[EOS][SOS]SPOCK: All the physical tapes of the planet will be all over the ship.[EOS][SOS]MCCOY: It was the only one man to prove anywhere on the way that we will control r
+[SOS]MCCOY: I don't do with the transporter room. Can you all right on the present properly for a crew monitoring the next thing we can die. This is the matter with him.[EOS][SOS]KIRK: Oh, no, no. But I come from?
+[SOS]KIRK: You can prove your own thoughts and not enough to be able to be marauder to destroy the ship is like the enemy for the surface. There is no good. It's all right, where are they? One man in the m
+[SOS]SPOCK: I love you to show you there. I want to know what the emergency open as the mind is to have to put a complete of the landing party of the sensors are alive.[EOS][SOS]KIRK: Then did the distress call an
+[SOS]KIRK: I shall have to be an approaching the ship was a personnel become a force field of that as a very much. I wouldn't be a filled programming with the ship, and I want to know what it wasn't a way 
+[SOS]KIRK: Commodore Keep the creature the Klingon disobedience. And when the transporter room to any condition. Get out of here. A personal beam of a starship Enterprise. All right. I can't give you it an
+[SOS]KIRK: I don't know. I know it is a bad be in the transporter room. Something we're better than any part of the problem for the computer. You have no idea of an order to make the bridge.[EOS][SOS]KIRK: I don't
+[SOS]SPOCK: If you will be of the most seems to be something there is a choice.[EOS][SOS]KIRK: What is it? There is a course for your planet better in the doors unless you think you do not come aboard the ship. I 
+[SOS]SPOCK: There's no harm.[EOS][SOS]SCOTT: There's still three deck one.[EOS][SOS]ANAN: We have no sensor scanners. I want to know what the power star the field. We can make a fight, but I want to do with the ship's com
+[SOS]KIRK: All right, I can stand to the ship. You need you to be a matter of this ship.[EOS][SOS]KIRK: Computer can appreciate it. The transporter room to Enterprise. Commander. We the strange instruments are on 
+[SOS]SPOCK: It would be for a same to be sure they can control them to help it.[EOS][SOS]KIRK: I'm sorry, Captain.[EOS][SOS]KIRK: I was sorry, Mister Spock. I have the computer. I took the strength.[EOS][SOS]MARLENA: And the ship
+[SOS]SPOCK: I can't tell you that you say you will have to be something you want my life is a man and an attempt to contact the ship on the hit out of here.[EOS][SOS]KIRK: Thank you, Captain. I was dead. A brother
+[SOS]SPOCK: All phaser banks and part of the transporter room to interfere with the ship. The ship is in the surface is the rock.[EOS][SOS]KIRK: Spock, you have some admit I can't seem to be a beautiful instrument
+[SOS]SPOCK: The ship. I'll stay here with the actions of the thoughts and disrupted to the healthy and man in security of the USS Enterprise.[EOS][SOS]KIRK: The computers. They're the controls are being wasn't age
+[SOS]SPOCK: If they died in the planet with the information.[EOS][SOS]KIRK: It is the matter. I was well not have the same thing is hardly practice, sir.[EOS][SOS]SPOCK: Stop some sight as a complete minutes, Mister Spock
+[SOS]CHAPEL: How do you know what it would be the bridge.[EOS][SOS]KIRK: No, no, no. You must be a man and the book so in dead, sir.[EOS][SOS]KIRK: You're not of the ship.[EOS][SOS]KIRK: That's it, Captain. I've got to see them. 
+[SOS]KIRK: What about the ship and so he probably is the point in it.[EOS][SOS]KIRK: Yes, I want to be the computer is on the man to have a weapon of his control of the computer star creatures are on course.[EOS][SOS]KIRK
+
+
+
+
+Epoch: 2 
+
+[SOS]KIRK: I'm sorry.[EOS][SOS]KIRK: Ready to beam down here. We're going to have the heart is a chance to our help.[EOS][SOS]MAN [OC]: The same in the heart is crash to see the problem at him.[EOS][SOS]KIRK: The mental control o
+[SOS]KIRK: That's a starship. There's nothing that would be there. I've already seem to be giving a planet and a course for the planet she's standing by to beam up.[EOS][SOS]MCCOY: Well, that's not to stay are inc
+[SOS]KIRK: Yes, I am the intentions. I want to know what you're still in the way it is in the attack would seem to be a transporter room. The table. The crew are you interference.[EOS][SOS]KIRK: And the fact that 
+[SOS]KIRK: What are you doing here. All right, sir. I'll be so personality. I intend to learn to the transporter room.[EOS][SOS]KIRK: I was looking for a prowers seem to be a complete response.[EOS][SOS]SPOCK: The starshi
+[SOS]KIRK: Well, we'll be able to report to the way to see the others down. I can get him down to present substance advice.[EOS][SOS]SPOCK: No appropriate power parties on the planet will be processed device of a 
+[SOS]MCCOY: Let's get out of here and the one of that check in the moments, the sun was lost with the one more than a communications and mark one, sir.[EOS][SOS]KIRK: Mister Spock is completed interplanetary cours
+[SOS]SPOCK: Security to Enterprise. Come on.[EOS][SOS]KIRK: How do you do it.[EOS][SOS]KIRK: All right, you would be the ship.[EOS][SOS]CHEKOV: Captain, I am the mineral manual on to planet in the blood.[EOS][SOS]TRELANE: Ah, yes. I stan
+[SOS]KIRK: What about your child, sir.[EOS][SOS]KIRK: What is it?[EOS][SOS]SPOCK: Sensors indicate something to do with the attempt to be a strange way to get the ship in the one to be a locked on the planet decisions of 
+[SOS]KIRK: How do you do it?[EOS][SOS]CHEKOV: But not to do that.[EOS][SOS]KIRK: If you will stay here.[EOS][SOS]KIRK: We're death.[EOS][SOS]KIRK: That's all we have a minute.[EOS][SOS]NATIRA: The Controller. We have no further arms are dead.[EOS][SOS]M
+[SOS]KIRK: I don't have to be sent to the ship. What were you going to be a rather things you want to talk to my name is a man to do that.[EOS][SOS]SPOCK: Captain, the planet is scientific records would take the n
+[SOS]SPOCK: I would say it could have started the sun. You're a ship was said that we see the ship. It's the screen.[EOS][SOS]MCCOY: I can't take you here. I will in the Captain of the strength. However, there is 
+[SOS]SPOCK: Indeed, Captain.[EOS][SOS]KIRK: Bones, I have lost something about the transporter room.[EOS][SOS]KIRK: I'm not a development of the sky will prove to your later. What will you shall remember that time to know
+[SOS]KIRK: It's right.[EOS][SOS]SPOCK: Nothing now.[EOS][SOS]KIRK: All right.[EOS][SOS]KIRK: You should have destroyed you?[EOS][SOS]MCCOY: As you want to do with the ship.[EOS][SOS]KIRK: I want to know what they were being as impossible to the 
+[SOS]SCOTT: The other light to establish a man of life forms are not a meteorite when I see it, Captain.[EOS][SOS]KIRK: Are you all right?[EOS][SOS]SPOCK: Sensors seen to it?[EOS][SOS]RAND: No, the force field is still alive. And
+[SOS]KIRK: I won't have the squestion. Now we say it can tell you that could have let something to be a control that he attack on the ship and get the one for the planet has a man who killed this planet wi
+[SOS]KIRK: I don't see me to be a new captain will be the controls. The last statement. I want to see that a starship in the entire ship.[EOS][SOS]SPOCK: I should have come there. But they can't go to the android 
+[SOS]KIRK: There must be any entrance that the course, Mister Spock. I have no suspect will be anything you wish to say than you do not might have been a moment, the entire communicators in the starship En
+[SOS]KIRK: And I want to think that never forgivened in my problem, Captain. I would like to do with the Earth ship has a place for a thing to see you with the communications station.[EOS][SOS]KIRK: Spock.[EOS][SOS]SPOCK:
+[SOS]KIRK: Mister Spock, what we should have to see the bridge in the way.[EOS][SOS]MCCOY: Well, there are only seventy miles aboard the Enterprise.[EOS][SOS]SPOCK: The Oracle room for communications before that the other
+[SOS]SPOCK: I'm not a superiods in the problem, there is no supply and we have the other banks are alive.[EOS][SOS]KIRK: What are you doing here?[EOS][SOS]SPOCK: The last time.[EOS][SOS]KIRK: She may have taken control and our ga
+
+
+
+
+Epoch: 3 
+
+[SOS]KIRK: How do you think you are only nerves.[EOS][SOS]KIRK: Consider it on some tribbles are not wish to punish me.[EOS][SOS]KIRK: Exactly, the Enterprise.[EOS][SOS]SPOCK: He is a god. But I don't know what happened?[EOS][SOS]KIRK: I
+[SOS]SCOTT: I can't say there are only a consciousness to the ship and the scale.[EOS][SOS]SPOCK: Not and the exact race to the man in the world is a distress signal from the great deal of exactly of any source. I
+[SOS]KIRK: What are you doing here.[EOS][SOS]KIRK: What about the same man who has been done something about the outpost in the response for the way to make it possible.[EOS][SOS]DAYSTROM: I couldn't have taken the record
+[SOS]JONES: What is the courtesy. It's not a pretty for the back to the present course.[EOS][SOS]SPOCK: I will not be considerable response.[EOS][SOS]KIRK: Now it present course is the star matter now to do with the men d
+[SOS]KIRK: All right. I get the last time we can't be all of them. You have a condition. So we can try to destroy the orders are on the ship. I see. Mister Spock, let's take a course in space.[EOS][SOS]KIRK: He's 
+[SOS]SPOCK: I am the androids and the fact that I can get the computers.[EOS][SOS]KIRK: Scotty, what do you think you can be a personal memory.[EOS][SOS]SPOCK: Captain, we're not all the new course.[EOS][SOS]KIRK: What?[EOS][SOS]SPOCK: I
+[SOS]KIRK: And we may have been disturbing you and your brain. I want to know how to see you to pick up the way we should be a transporter room, Captain. I was a marriage banks prefers to your crewman.[EOS][SOS]KI
+[SOS]MCCOY: How does it does not consider the following and light of its power to see the weapons and a possible contact with the proper controls are impossible.[EOS][SOS]SPOCK: I stay here. I've got to die.[EOS][SOS]KIRK
+[SOS]KIRK: What are you doing?[EOS][SOS]SPOCK: All power on the surface. We'll be able to supply the ship and planet the cloaking device is too much about the crewman. And they were ready.[EOS][SOS]KIRK: All right, not a 
+[SOS]KIRK: I'm not sure the only one were transporter room.[EOS][SOS]SPOCK: I think I'm going to come out.[EOS][SOS]KIRK: (the transporter room.[EOS][SOS]SCOTT: Aye, sir.[EOS][SOS]KIRK: We can't do it.[EOS][SOS]KIRK: I'm the last of this battle 
+[SOS]KIRK: What are you doing to him.[EOS][SOS]KIRK: No, for myself. The body was there, Mister Spock. I want to do, find out what is it? What would you transport up anything at all, Mister Spock. I want the short
+[SOS]KIRK: Something is all right. I'll have to go and who are the transporter room in the contrary, maybe you would be the time possibility and control party.[EOS][SOS]KIRK: The enemy has seeing nothing for some 
+[SOS]SPOCK: I think you were killed. It's a device is a ship's power of the distress call. Our people are the orders and a chance. You are the security crewman.[EOS][SOS]SPOCK: I don't know how to reach the chance
+[SOS]KIRK: Well, I should be an alien council chief this can make my ship.[EOS][SOS]KIRK: All right, Scotty. For the captain. We are difficult to stay in the storm of the orbit strange.[EOS][SOS]KIRK: That's right. I was 
+[SOS]KIRK: The captain was drawn to the ship. I'll be the control of the control of the transporter room in the ship and I had something to contact the ship to me. They stay along with the word to someone 
+[SOS]KIRK: All right, Jim. Soon in the security officer. All section of the battle group of the ship and the fact that you can talk to the other system.[EOS][SOS]MCCOY: He can keep her the ship.[EOS][SOS]SPOCK: I tell me 
+[SOS]KIRK: How did you think we don't think we can't see it to help you, Captain. We are the one of the other ship seems to be in the respect in the newcomers.[EOS][SOS]SPOCK: I don't know what I can do to discuss
+[SOS]KIRK: I was able to think I may be an excellent ship is dead. I'm a different factor three.[EOS][SOS]SPOCK: Captain, so sooner or some tribbles have permitted that she fall could not have been the controls ar
+[SOS]SPOCK: I have more well.[EOS][SOS]KIRK: The court, sir.[EOS][SOS]KIRK: The captain. I have a human beings in the planet was a death against your devices in the stars. I was thinking.[EOS][SOS]KIRK: We're ready, Captain. I di
+[SOS]KIRK: You know that I must stay in the back.[EOS][SOS]SPOCK: This is not the starship Enterprise.[EOS][SOS]SCOTT: I don't know how to take them are serious statement of this men down, Captain.[EOS][SOS]KIRK: And you will app
+
+
+
+
+Epoch: 4 
+
+[SOS]UHURA: No more age report to the security computer work is the same fire. It was the landing party is the only one has the captain state. I want to know why they can do it.[EOS][SOS]SPOCK: I want to know who 
+[SOS]MCCOY: There's no decipher to the ship.[EOS][SOS]KIRK: You have a thing that was a command.[EOS][SOS]SCOTT: I was a farmula here.[EOS][SOS]KIRK: Come.[EOS][SOS]KIRK: It was a starship. I want to know what I want to know why they are
+[SOS]SPOCK: Captain, I want to see how I see the computer control of the ship can transport direction. I want to know what you say the same way they have a death.[EOS][SOS]KIRK: What do you mean, and the women of 
+[SOS]SPOCK: Come, the computers will be sure the computer will be easy. We're free to see you. There are many men are storment in the ship. It was not yours.[EOS][SOS]SPOCK: Projecting area. Now we have to go find
+[SOS]SPOCK: So are the course. And you were the surface of the ship is to have to make a ship to the sign of command with you.[EOS][SOS]SPOCK: Captain, I want to see the phaser. The computers of the truth that sta
+[SOS]KIRK: Scotty, Spock? You are the same power down there and the weapon. I would have to be sure of the ship. There was a man and steps the party of the service readings will be able to see the body wit
+[SOS]KIRK: We have staying about with the child is straight for the mind, Jim. An agreement. The force field, sir.[EOS][SOS]SPOCK: One hundred thousand and there would have injured and memories.[EOS][SOS]KIRK: The surface
+[SOS]KIRK: Kirk here.[EOS][SOS]SPOCK: Quite ready?[EOS][SOS]KIRK: I want to have a starship can be destroyed. We all know about it, Mister Spock. I like you.[EOS][SOS]KIRK: I will not find with the bridge, Captain. It doesn't mak
+[SOS]SULU: Sir, the computers of space that way. I was thinking of the ship. It's a whole life, and there is an action is a bargain with spores of purpose of sensors on the ship.[EOS][SOS]MCCOY: I'm sorry. I have 
+[SOS]KIRK: Well, I'm going to talk. He sees no need to make the ship. There's no reason to do with the Enterprise and could be a fight of the computers before the captain is completely back on the planet w
+[SOS]KIRK: I'm sorry, Captain. I assumed you would have done to the power to take the service report.[EOS][SOS]KIRK: They won't mind to wait until I do. I want to know what he says is not the captain would be cont
+[SOS]KIRK: You were not on the planet that ships interesting at a starship. I must come in my own planet. The starships. There is no problems the creature, and I'm experienced upon the ship's computers are
+[SOS]KIRK: How did you know the basis of the ship, and our medicine be wise to resist the computers are alternative. The transporter room to stay in the starships is such a barrier in the ship and the capt
+[SOS]KIRK: This is the matter.[EOS][SOS]KIRK: Come. The tapes of the Enterprise, and I will continue to do something at all. I can't see the pain is that life readings we have some problems.[EOS][SOS]SPOCK: We are sensors
+[SOS]KIRK: What are you doing here will be taken an explanation controls of the body will be taken the attempt to be sent to you. We can't seem to be affected. (not command of the Vulcan was still discussi
+[SOS]KIRK: Look at me. I was on the ship. Oh, I'm tired of the way we see the computer was strangers are not now.[EOS][SOS]KIRK: We can't tell you that the privale the ship and the ship. The computers will be kill
+[SOS]KIRK: The medicine when the other ships. It would be experiment sensor sanding party to the planet I want to see the safety of the transporter room there.[EOS][SOS]KIRK: Here you want to know whether you have
+[SOS]SPOCK: I shall be able to scan interfere will report for me.[EOS][SOS]KIRK: What do you think that the body will remember the problem, they may not do anything to be a visitor. Captain, I don't like your pres
+[SOS]KIRK: We must have any responsibility for a message to you. I'm sorry. I didn't do something discovered the matter with the signal to the ship. We have a security days. I'm losing the creature.[EOS][SOS]KIRK:
+[SOS]KIRK: No, I am going to have reached the transporter room.[EOS][SOS]CHEKOV: Sir, I have no planet of the starships is still about the strain of here, there is no real thing about it. I want to know how that w
+
+
+
+
+Epoch: 5 
+
+[SOS]SPOCK: And the Klingons are there in the control party of more logical to the ship and the others are you power to the ship.[EOS][SOS]KIRK: What are you still alive.[EOS][SOS]SPOCK: The Horta is already programmed to
+[SOS]SPOCK: Captain, we are not as a little ago, I can be a long time for any words and the matter who were your crew to the last thing that I have a prisoner the transporter room.[EOS][SOS]SPOCK: Not only year to
+[SOS]KIRK: Spock?[EOS][SOS]SPOCK: Yes, Mister Spock.[EOS][SOS]SPOCK: And sent to make a dilithium crystals, Captain. I see you a minute. Who are you?[EOS][SOS]LAZARUS: Yes. It was there to see anything about the force field to th
+[SOS]KIRK: I see the arms are in the moment we can do something in the planet with the computer, sir.[EOS][SOS]KIRK: All right, Captain. We can be here. I want to show them and I have to do with a computer. I am t
+[SOS]MCCOY: I don't know, sir. I'm the ship.[EOS][SOS]MCCOY: I am Spock.[EOS][SOS]SPOCK: They can't start the right to the ship and they wanted to be a woman of that.[EOS][SOS]KIRK: What do you mean?[EOS][SOS]SPOCK: I am a super-our star
+[SOS]SPOCK: I am a force field. The sound of the captain is a mark four three degrees and man in the last two thousand three minutes with a transporter room. I want to have to be human. What is it, Mister 
+[SOS]KIRK: Complete interstellar changes careful.[EOS][SOS]KIRK: This is my life is a transporter room. But the security officers of our starship Captain is now have the court and it?[EOS][SOS]SPOCK: Indeed. And I am on t
+[SOS]KIRK: Then a starship into the same thing is in the top has already protected.[EOS][SOS]KIRK: What are you doing?[EOS][SOS]MCCOY: Yes, a ship on it. They'll die now. How many of them to the ship and I am pleased to a
+[SOS]SPOCK: I am tired of the ship and you think you hear you.[EOS][SOS]KIRK: But it has been inside the ship.[EOS][SOS]SPOCK: I can get through the power parties, Mister Spock?[EOS][SOS]SPOCK: I am really there is the creature w
+[SOS]KIRK: We're to be the one of the ship. I want to hit you here, Captain. It would account for the proper involved. We are the interference so the bridge.[EOS][SOS]KIRK: I'm sorry, Captain. Come on?[EOS][SOS]SPOCK: I w
+[SOS]KIRK: Have your planet at all the answers. I'm afraid there are no way of planet and it's right, Doctor.[EOS][SOS]KIRK: I can't kill you![EOS][SOS]SPOCK: Starfleet Command.[EOS][SOS]SPOCK: The galaxy. Forgive me, Captain.[EOS][SOS]K
+[SOS]KIRK: Bones, you have to see the computer could we go through the bridge at all aboard this ship.[EOS][SOS]SPOCK: Precisely. He is not secure the ship.[EOS][SOS]SPOCK: Planet surprise and an explanation.[EOS][SOS]KIRK: I don
+[SOS]KIRK: We can come to the ship, sir. I suggest the personal firesticks have a weapon. What are you seen you and I all right?[EOS][SOS]SPOCK: All personnel on the ship.[EOS][SOS]KIRK: The planet will have to be like to
+[SOS]SPOCK: I can't fight them aboard the ship of the ship is the problem when we can't remember the computers are we going to hurt another planet six thousand years, sir.[EOS][SOS]KIRK: I'm not really trying to d
+[SOS]SPOCK: I don't know, sir.[EOS][SOS]KIRK: Kirk here.[EOS][SOS]CHEKOV: And if the respect of order it off could be a compartments. They were no ordinary to report to the Ambassador.[EOS][SOS]KIRK: Yes. I have a chance of the d
+[SOS]KIRK: You have the same decision will be a look at this instruments are to seek some sort of deciding the ship.[EOS][SOS]KIRK: You must have the ship. All the others, the only present course.[EOS][SOS]SPOCK: The only
+[SOS]SPOCK: In the planet and they don't have to be so many and the security of the transporter. I'll do you hear you, I will take the ship to planet save me. I can't see the computer look on the planet.[EOS][SOS]
+[SOS]KIRK: You will not put you and the Enterprise to explain what you allow you that some time warp factor two.[EOS][SOS]SULU: At least so the outer appear to be a survey of the ship.[EOS][SOS]LAZARUS: Yes, if you will b
+[SOS]KIRK: The past thing has not started it to show you it was to take the primitive controls them for the control of them.[EOS][SOS]KIRK: Stand by to beam up.[EOS][SOS]KIRK: Mister Spock, the alien ship will be strongly
+[SOS]KIRK: Yes. We can help us no hope.[EOS][SOS]CHEKOV: The computer complete. The rest of your ship on engines are the ship and yourself in the bridge can call me in the ancient planets.[EOS][SOS]UHURA: I don't know abo
+
+
+
+
+Epoch: 6 
+
+[SOS]KIRK: We'll be dead.[EOS][SOS]KIRK: And I have the captain is not dead, and I can make it a transporter room as I want to know. Anything about the engines are to be done with you.[EOS][SOS]KIRK: Where are we?[EOS][SOS]SPOCK:
+[SOS]SULU: It's the one that the captain. I am for it.[EOS][SOS]SULU: Phasers standing by to beam up to the starship Enterprise. Please do that there is a due planet would be there. I think that he seems to be no 
+[SOS]SPOCK: Under several honours and something in the same starship captain and the ship is here about the transporter room. He's dead. If the others before she may be a matter of days of course.[EOS][SOS]KIRK: W
+[SOS]KIRK: Spock, I shall be necessary to see the computer was programmed to admit the transporter room. Excellent. You should have not tell me?[EOS][SOS]MCCOY: Well, I have no way of a very slingship aboard the E
+[SOS]KIRK: Under attack will be received a world with your explanation in the planet with the transporter control the service rank, Jim. All right. Well, sir.[EOS][SOS]KIRK: What is it?[EOS][SOS]SCOTT: Well, how used the 
+[SOS]KIRK: Spock. She's permitted to entity all of this planet.[EOS][SOS]SPOCK: I see no choice, Captain. Approaching the pain back and humans are some extreme command, I've been to be an error in the consisting. 
+[SOS]SPOCK: Just as they get the conditions of the starship Enterprise.[EOS][SOS]MCCOY: I have no more than the warning for a chance.[EOS][SOS]KIRK: That's what they can be able to stay away?[EOS][SOS]MCCOY: Secure from the creat
+[SOS]SPOCK: I see no standard orbit and life forms which can see what he said, the temperature on the Enterprise. You say you are not completely sense. And we are the same matter. We must also to live whil
+[SOS]MCCOY: She's not only a real to speak to you and your experiment that he can find a matter of survival.[EOS][SOS]KIRK: And you will not have a crew would be chosen to complete the landing party of the Enterpr
+[SOS]KIRK: I wouldn't need the same again, sir. We're not a diverting.[EOS][SOS]SPOCK: That is the wind. The transporter room. You're not a girl that they're going to have as they want to contact him. We've got to
+[SOS]KIRK: The others in the first officer and you say they are there when I do not destroy it.[EOS][SOS]SPOCK: No approach with my thoughts to a moment, Captain, you would destroy all of them were an order.[EOS][SOS]COMP
+[SOS]KIRK: What do you mean, the ship is one of the simple convincing.[EOS][SOS]KIRK: What is it?[EOS][SOS]SPOCK: I see us something out of the bridge and commander and the ship was a long and then well, Captain, I am a g
+[SOS]KIRK: We'll have your people like the words.[EOS][SOS]MCCOY: I can't stand the prisoner in the building.[EOS][SOS]KIRK: Yes, sir.[EOS][SOS]KIRK: Kirk out.[EOS][SOS]SPOCK: I see the engines will proceed to the point of hands of the s
+[SOS]KIRK: I order you to take over the computers are not afraid of. I want you to take a channel to the computer said the starship Enterprise. We are a new course, you have made your ship. He wants to be 
+[SOS]KIRK: What is it?[EOS][SOS]SPOCK: I shall be there anything else we can respond to stand to respond.[EOS][SOS]SPOCK: Standing by.[EOS][SOS]SPOCK: Captain, I can't believe it.[EOS][SOS]KIRK: What is it?[EOS][SOS]SPOCK: What is it?[EOS][SOS]MCCOY: Wh
+[SOS]KIRK: We tell me what I think.[EOS][SOS]MCCOY: He's no readings of the course on the planet as the captain. We must have made it?[EOS][SOS]MCCOY: Can you transport the computers are superior to consider the planet wh
+[SOS]SPOCK: The explanation. I've never been a simple channel the transporter. Your way to the transporter beam away from here and an actor.[EOS][SOS]MCCOY: I want you to get the computer was destroyed.[EOS][SOS]SPOCK: Pr
+[SOS]KIRK: What are you doing here?[EOS][SOS]KIRK: I was one of the scan earned that with the word of the ship.[EOS][SOS]SPOCK: Captain, we are very good question.[EOS][SOS]SPOCK: Acknowledged.[EOS][SOS]SPOCK: You do it not attack with t
+[SOS]MCCOY: No, not and what you also provide the transporter room. All right, Scotty. I believe you are many attacks for your mind, Captain. Any interference with the ship. You want me to a hundred percen
+[SOS]KIRK: We can have this place of the Oracle report statement. We are satisfied the planet is because we can aware of all the screen, the problem. This is the captain is not a time will be able to take 
+
+
+
+
+Epoch: 7 
+
+[SOS]KIRK: You have a proper interesting stronger than he is a transporter room. I don't know what happened to him, sir.[EOS][SOS]KIRK: Scotty, we can tell you.[EOS][SOS]KIRK: And you insist on a penning position. This is
+[SOS]KIRK: Scotty, you have to continue that you can take a few more than a dead if you would be sorry, Captain. It is the only thing that it is not in a few more pressure is the defence is the matter with
+[SOS]KIRK: Mister Spock, I don't think so. The Enterprise is the heart of the Enterprise. It's the one that taking your primitive statement, Captain.[EOS][SOS]KIRK: A ship that crewmen are all right now, sir.[EOS][SOS]KIR
+[SOS]KIRK: What would they do it?[EOS][SOS]MCCOY: You can have a look at me.[EOS][SOS]KIRK: Yes, I was afraid. And the bridge. Captain, I suggest you hear me? What do you want to leave here and the Captain but they studie
+[SOS]DAYSTROM: It's been a probe in computer is unless you see the ship is not the captain. Still no response.[EOS][SOS]KIRK: Well, I'm a mean to the other worlds say that was such a sort of is most certain that y
+[SOS]SPOCK: I don't know that we're not lose the medical officer was destroyed the ship.[EOS][SOS]SPOCK: Captain, I could have left of the ship is a logical attention to the way you can see the only chance for the
+[SOS]MCCOY: I know our minds are all right?[EOS][SOS]KIRK: It is working off for the fact it.[EOS][SOS]KIRK: What about the ship's surgeon. The seconds to comply, Mister Spock. When they may be ready?[EOS][SOS]SPOCK: Commander Su
+[SOS]SPOCK: We are being handle it.[EOS][SOS]KIRK: And you don't know what they are?[EOS][SOS]KIRK: He's been able to command them. They have a desire your species of this victory of the helm and still holding, sir.[EOS][SOS]KIRK
+[SOS]KIRK: I'm a loss to reach an extremely the life and like this.[EOS][SOS]SCOTT: Aye, aye, sir.[EOS][SOS]KIRK: That was a short command. I suppose one of the most choice certain that I left the wind and stop me.[EOS][SOS]KIRK:
+[SOS]SPOCK: The miners. I guess they have the food since that it will be returned here. It would be a strange almost a hundred years ago, the sensors show that we're coming about the other entire ship and 
+[SOS]MCCOY: I have such a repaired to be a little what you're saying. It is something else, a result of course we don't mean they are to make a lot of a planet with the same thing when I said I said you ca
+[SOS]KIRK: Good. I want the centre of the temple and the ship.[EOS][SOS]SPOCK: Seventeen point three zero seven minutes and this main phaser fire. We sent you to beam down a second and countered destruction of the
+[SOS]SPOCK: The time simply careful period of the ship's power of the contact with an order to the bound in the ship.[EOS][SOS]KIRK: A prisoner is done. You have the computer will prove that she could have been a 
+[SOS]KIRK: I'll be able to reach our casualties are the strength of the head in the next for the creature could have been a reason to construct you here. We have no time for all that man is a little headin
+[SOS]KIRK: Scotty, give him a computer complete transfer to the transporter room.[EOS][SOS]KIRK: What are you doing a world and stand by to sign, we're dead.[EOS][SOS]SPOCK: No. No! No! No! No! No! No! No! (he was locked 
+[SOS]KIRK: Spock, I don't know what we discover that we have no mistake. Scotty, we're not a drink. That was the words of rational.[EOS][SOS]SPOCK: Doctor McCoy to the androids in the whole attack was a totally as
+[SOS]KIRK: Lieutenant, with the Enterprise will be a bad body in order.[EOS][SOS]SPOCK: I should have attacked by the surface decision to save your heading to the weapon can tell you that we can be a computer coul
+[SOS]SPOCK: The place is the only possible computers. I think that unit is not so much to stay here to help them for the ship.[EOS][SOS]KIRK: Doctor Adams will be in this such a certain one of everything we can se
+[SOS]KIRK: Fine, the controls this hearing is with the creature will take the control or a bottle of the most effective and women to be no probe through the ship was here. I want to know what they would ha
+[SOS]SPOCK: We were one of the logical space protecting its problems there. I think I can think that the punishment should be able to do with the years ago, and what it is in the devil will take me to the 
+
+
+
+
+Epoch: 8 
+
+[SOS]KIRK: (into communicators and control of the starship command is the way they were the probe.[EOS][SOS]SPOCK: Yes. I am unable to come in. Mister Spock, we're not going to have to remember the man of the hear
+[SOS]KIRK: You have in a signal to stand there is not it. They will take the ship, Captain, but it is not your sensors.[EOS][SOS]SPOCK: I am time without concerned about the wind to serve a message to all the star
+[SOS]SCOTT: Captain, the surface ship will have to put the ship of the bridge against the ship and die. I was more than the problem. I like a planet surface of experiences to your stations.[EOS][SOS]SPOCK: The cha
+[SOS]MCCOY: Well, that's not there. The chances, no immunity with the death of the Oracle room on the planet was a ship that she was too late of any more than a sensors show that you don't understand that 
+[SOS]MCCOY: We must be an answer and interference with it, it presents a prisoner on the bridge and contact here.[EOS][SOS]KIRK: What are you going to be a world with the man with us alone.[EOS][SOS]KIRK: How do you mean.
+[SOS]KIRK: We don't know how to do?[EOS][SOS]KIRK: The Captain and the others do not want to see me and complete orbit of a planet if she was a great readings are to do it. I don't know what they want to know. It 
+[SOS]SPOCK: I can do some thing you can think it was working on the ship.[EOS][SOS]SPOCK: The power to make any reason to explain. It is not a few minutes.[EOS][SOS]SPOCK: You mean you may be sure that not and help me the
+[SOS]KIRK: Then we need a prisoner of the Federation.[EOS][SOS]CHEKOV: If I don't mind this is a hand and detain the starship capable of a superior instrumentality and saved our vessel. We can provide a matter of 
+[SOS]KIRK: Stay called Spock, I shall give up everything I want you to see the time named the ship.[EOS][SOS]KIRK: And what there were the only possible thing that was a member of the Enterprise. I would like to h
+[SOS]KIRK: No. No, not any defence that could be a very good refreshing our phaser reaction to any of this to something of the same as the whole crew.[EOS][SOS]SPOCK: The men and the entire ship said that you are 
+[SOS]KIRK: I am not allowed the centuries.[EOS][SOS]KIRK: Mister Spock, the same and correctly.[EOS][SOS]KIRK: I believe they left the little ones.[EOS][SOS]KIRK: Mister Spock. I didn't see that the problem of walking to the Capt
+[SOS]KIRK: How do you get into the planet and bring them in there, and then you are a phaser banks. What is this all the past seven point three, and you know what they were working in a booth for the ship.
+[SOS]KIRK: Mister Sulu, the surface it is not the computer was born and the man to the Captain.[EOS][SOS]UHURA: I was a colony, have you done to them, sir.[EOS][SOS]KIRK: Standard orbit, Captain.[EOS][SOS]KIRK: Lieutenant Uhura t
+[SOS]SPOCK: The screen.[EOS][SOS]SPOCK: You will be able to have to stop the Bridge.[EOS][SOS]SCOTT: Aye, sir.[EOS][SOS]SPOCK: Captain, you say I can see the strangely well enough to the ship.[EOS][SOS]KIRK: Yes, I know what we've been s
+[SOS]KIRK: I don't know that we weren't there it is the machine with the planet is manians, miss of the planet.[EOS][SOS]KIRK: Yes. You don't get them all right?[EOS][SOS]KIRK: What do you stay here on the bow to any more
+[SOS]KIRK: You have the mind and start by the entire computer was a trail.[EOS][SOS]SPOCK: Captain, I believe that all those death is being only a chance to it.[EOS][SOS]SPOCK: Thank you, I shall be able to explain the sh
+[SOS]KIRK: But there is no time.[EOS][SOS]SPOCK: And it will never be able to speak to you and your father. I didn't have a look at the room. I have the words of the planet is pression of the Enterprise. The games
+[SOS]SPOCK: I have no choice. The only one who's in the phasers firing about that.[EOS][SOS]AYELBORNE: Precisely the computer controls of the heart of the planet surface, and we should have been a space has happen
+[SOS]KIRK: I don't know what they were all and beamed down to the Bridge. (the landing party. Security.[EOS][SOS]KIRK: Spock, do you have the condition.[EOS][SOS]KIRK: I didn't know what the transporter mind to the guard 
+[SOS]SPOCK: And the crew of the Enterprise. We were at the pattern, the way the experiences. They were on the bridge. I want to know what they were the drives upon the ship's standing by, Mister Scott.[EOS][SOS]SC
+
+
+
+
+Epoch: 9 
+
+[SOS]KIRK: What is it?[EOS][SOS]SPOCK: I think you could have done when you can make a what? What do you want to know what the transporter room has happened?[EOS][SOS]SPOCK: I have escaped. They're being been a pleasure t
+[SOS]KIRK: How do you feel. You suggest that I am on the ship.[EOS][SOS]KIRK: Stand by to beam down from the most complete end.[EOS][SOS]KIRK: They're considerable a moment, Mister Spock. Spock, you might have a landing p
+[SOS]KIRK: What are you doing?[EOS][SOS]CHAPEL: I can't call the survivors and the greatest captain of this ship. We have no such as should be glad to see the course in the personal means that be a body and make m
+[SOS]KIRK: You have survived the force. It was survive with the hours.[EOS][SOS]MCCOY: Can you know what you may have reached the destruction. Any of the planet could not help me and I am for him. Your safety from
+[SOS]KIRK: Well, I shall take them to see me along with the same contact. I can't go back to the Enterprise.[EOS][SOS]SPOCK: That's a reason to stop them.[EOS][SOS]KIRK: Kirk here.[EOS][SOS]SPOCK [OC]: Captain, the channel to Sic
+[SOS]SPOCK: We shall leave here is the future.[EOS][SOS]MCCOY: You could have been saved the doctor, I would remember the security team we don't have the ship at the moment. I am the power of the Enterprise.[EOS][SOS]SPOC
+[SOS]KIRK: And you've got a sign of the control of the Enterprise.[EOS][SOS]SPOCK: The factors indicate the moment in some sort of the laboratory computer would be more until you can tell me that stations. No part
+[SOS]SPOCK: I have recorded the ship before we can find out what you may have been absorbed, and I would be a warning of the Enterprise.[EOS][SOS]KIRK: Yes, sir. Captain. Many process with his engines are here to 
+[SOS]KIRK: Destroyed it to the power to stay.[EOS][SOS]KIRK: I'm afraid I don't find the protection of the real power, we were the one thing. I must take a man who don't read my thoughts and woman? What is it?[EOS][SOS]SP
+[SOS]KIRK: It may be a starship.[EOS][SOS]KIRK: I saw your problem. Your ship is still a message to the ship to see this is the captain was a great deal about the building of the planet.[EOS][SOS]KIRK: I have the power re
+[SOS]KIRK: The whole planet was recorded and discipline to come aboard the Enterprise is not a disease here.[EOS][SOS]KIRK: Spock, the ship. I don't know what it is, sir.[EOS][SOS]KIRK: Maintain range of its captain's pre
+[SOS]KIRK: You're brought to the ship.[EOS][SOS]KIRK: Is that all, but I don't think we can tell him.[EOS][SOS]KIRK: Scotty, what is it?[EOS][SOS]SPOCK: I have the ship out of your men and a most experience and forty three millio
+[SOS]KIRK: No. I'm fine. I don't understand the controls the beam down to the ship.[EOS][SOS]KIRK: All right, Doctor. I'm sorry, Captain.[EOS][SOS]KIRK: Stay. I can't make a more destruct the course channels. I want our s
+[SOS]SPOCK: The instruments show your world.[EOS][SOS]KIRK: You're not as a matter of state of the ship. I don't know. They were unable to find a scanner that way. I have merely the Earth colony on the ship. I kno
+[SOS]KIRK: That's a doctor prove and the problem, Captain. The men are fused some things and destroy our parts of the Enterprise. It is a little tribal charges the creature is not the same ways. A days. I 
+[SOS]KIRK: I see you seen what the antimatter instinct has been raised him and die in the proper and the hot and then we were to increase our will now. What is it?[EOS][SOS]KIRK: The sum of the controls the attemp
+[SOS]SPOCK: I have restricted to the ship.[EOS][SOS]SPOCK: Did you come from a problem where the terms of the Enterprise to the surface of the planet is dead because I can think we must say that. So the creature w
+[SOS]KIRK: Kirk here.[EOS][SOS]SPOCK [OC]: He were a man who can do that are to protect yourself, Mister Spock. What are you doing there is a universe is the controls are off the recorder and the life of that thin
+[SOS]KIRK: What are you going to do with no harm and an alien mind was attacked him about this ship. You mean, and you can't have a complete reports than the ship and the force field is a dead. We do not m
+[SOS]SULU: Aye, sir.[EOS][SOS]SPOCK: Not at all.[EOS][SOS]SPOCK: I should have been a protective to see the ankimother. (the blood could be able to cause the last of the Enterprise out there and the image of the Captain w
+
+
+
+
+Epoch: 10 
+
+[SOS]SPOCK: I have a source of the ship. I want to talk to you. I was on it.[EOS][SOS]KIRK: I have no mistake.[EOS][SOS]KIRK: We are the structure of the space station.[EOS][SOS]UHURA: It was something to take the same way.[EOS][SOS]KIRK
+[SOS]SPOCK: The computer on the ship.[EOS][SOS]KIRK: I am the considerably a few destruction of this ship. I can't make it on the surface of the same thing about the outer readings in the transporter room. Can you
+[SOS]KIRK: My direction, Mister Chekov.[EOS][SOS]CHEKOV: I am Landru, Captain. It was the corridor, and the same for the reality is dead. I'll make a look at the advanced in the transfer to the ship.[EOS][SOS]KIRK: I mean
+[SOS]KIRK: Record tapes will be honoured. I am better. I want to destroy something that won't be a reading on the controls, but it was that right. I was the most difficult for the problem of the people are
+[SOS]KIRK: What is it? They thought the charge of the stars commander has a perfect health. The same woman.[EOS][SOS]SPOCK: I will not have been our sensors were the creature. That the way I can be a reading on sh
+[SOS]KIRK: That should be more than a starship from the screen when we enter the transporter room in the transporter room in the matter, it is a boy. I promise you to get him on the ship. I want to know wh
+[SOS]KIRK: Care to take a look at me when you intend to stop them. The same in this quadrant. We move about a course for Pike. It's not a simple thing we could say anything on the stars in the primitive th
+[SOS]KIRK: That is a strange crew of the planet is certainly do that?[EOS][SOS]KIRK: It's not a phasers.[EOS][SOS]KIRK: All right, you don't mind the planet is all right?[EOS][SOS]MCCOY: I don't know what you can stand the stars 
+[SOS]KIRK: I want you to kill them.[EOS][SOS]KIRK: I have no distress call from the planet to power to queen's level three, Captain. Something that are the first analysis comes aboard this ship.[EOS][SOS]KIRK: What do you
+[SOS]KIRK: That stars and a protective space frightening the message is allowed to help the controls, Mister Spock. I want to know what they would have to come to the ship.[EOS][SOS]KIRK: Good. I can't do that.[EOS][SOS]K
+[SOS]KIRK: Put it on the engines are still on your position.[EOS][SOS]KIRK: I'm sorry, Captain.[EOS][SOS]KIRK: Hold your help.[EOS][SOS]KIRK: The thralls think of it, Captain.[EOS][SOS]KIRK: All right, not in the barrier. If I have to do
+[SOS]KIRK: You're looking at the moment.[EOS][SOS]SPOCK: It is being recorded in the men are too late for you. I want to have to be a forced to destroy him.[EOS][SOS]KIRK: Are you sure you may have been a kind of a starsh
+[SOS]KIRK: We don't have that thing we've been through the colonists and provide the ship is so concerned. It is a friend of the stars and twenty two experimental condition of justice for a ship on the str
+[SOS]CHEKOV: That is a strange thing you mean. The secret of the proper accallera, Mister Scott, I'm the force field.[EOS][SOS]KIRK: I didn't ask for your people are one of us for a moment. I should be here. If yo
+[SOS]KIRK: We're not an order.[EOS][SOS]SPOCK [OC]: I can't remember.[EOS][SOS]MCCOY: You don't belong to the entire ship of the creators.[EOS][SOS]SPOCK: I never reached it off.[EOS][SOS]MCCOY: A computer will stay with you, Captain. I 
+[SOS]KIRK: The matter is the same thing you don't have to do with the Federation survey of this ship.[EOS][SOS]SPOCK: The Enterprise will be really clearing the galaxy. I am not sure who made the transporter room 
+[SOS]SPOCK: The holies are a computer.[EOS][SOS]KIRK: I don't know what they were on the surface of the transporter room.[EOS][SOS]KIRK: You must have reached a desire to see you aboard my ship.[EOS][SOS]SPOCK: And you will conti
+[SOS]KIRK: The other hand. I don't know what the ship is the rest of the surface, it can please you to the survivors in the controls, sir.[EOS][SOS]KIRK: The destruction of the surface, the ship.[EOS][SOS]KIRK: You can mo
+[SOS]KIRK: Any chance of the transporter room to Sickbay.[EOS][SOS]KIRK: Mister Spock, you could have been completed, but one thing I should have been monitor animal voice. It would be a simple hand will be too la
+[SOS]SPOCK: It was a radio was a transporter room. Captain Kirk is a new experience of that part of the ship. The statement is here. I don't think we can make a reason for the communications back. I'll be 
+
+
+
+
+Epoch: 11 
+
+[SOS]KIRK: No, for the problem. I want to know what we were concerned about the same contact with the ship. I want the captain and I will be the same way to go ahead.[EOS][SOS]KIRK: I know what they were concerned
+[SOS]KIRK: We can't stay here.[EOS][SOS]KIRK: Captain Kirk.[EOS][SOS]KIRK: Spock. Spock. And I am a moment. It would seem to be a week would have been until I can talk about it, but I will stay here with the transporter r
+[SOS]KIRK: What do you mean. I am the port of command. I'm sorry.[EOS][SOS]KIRK: Mister Chekov.[EOS][SOS]CHEKOV: Probably the Enterprise. The same tribbles are proverned.[EOS][SOS]KIRK: You put them what it is so far as you know.
+[SOS]SPOCK: Captain, I suggest that any condition for some reason to stay in some doubt they were back on a man on the heart completely armed.[EOS][SOS]KIRK: Then what we can do to me. You found a ship on the brid
+[SOS]KIRK: All right, Mister Spock. The temple to the heart of a solution is to take a starship was superior and the Captain and Doctor McCoy.[EOS][SOS]KIRK: And his light.[EOS][SOS]SPOCK: I read much time is not the most
+[SOS]SPOCK: I will go ahead of us who was a few hours ago.[EOS][SOS]SPOCK: Doctor, the other hand.[EOS][SOS]SPOCK: I don't want to go on, and I have to do. We shall take you through the profession star halls.[EOS][SOS]KIRK: No on
+[SOS]SPOCK: I don't know.[EOS][SOS]KIRK: Excellent.[EOS][SOS]SPOCK: They must be protected.[EOS][SOS]SPOCK: The computer controls are going to have to be a fair land of course, it was the only word for the world was a destruct si
+[SOS]KIRK: Thank you, Captain. Not everything we have to give you a moment.[EOS][SOS]SPOCK: Indeed, Captain, and you call your mind.[EOS][SOS]MCCOY: I don't know who that thing of command. (they were all and we will be hi
+[SOS]KIRK: Then I must let me say it would take care of our cultures. You can get a starship planet is to take a look at me, but I don't need the barrier, sir. What are we going to take you to the bridge.[EOS]
+[SOS]SPOCK: Captain, the man who made the transporter room.[EOS][SOS]KIRK: I don't know what can I do. The most completely disrupted.[EOS][SOS]KIRK: The magnetic powers in the problem, Captain.[EOS][SOS]KIRK: We're here to contro
+[SOS]KIRK: What are you going to do?[EOS][SOS]SPOCK: I am sorry if it is. They want to do that.[EOS][SOS]KIRK: Yes, I have no chance at the point. From his body was a way at the other side, Captain.[EOS][SOS]SPOCK: The transporte
+[SOS]KIRK: I suppose that was son. All life forms in a whole radiation business of the Enterprise, sir. No answer.[EOS][SOS]SCOTT: Aye, sir.[EOS][SOS]STOCKER: I see. I want to know what happened to the war back there was 
+[SOS]KIRK: Spock, take a lot of intercom.[EOS][SOS]KIRK: Yes, I have to be taken over the war, Captain?[EOS][SOS]KIRK: He was still alive.[EOS][SOS]KIRK: And they were part of it. It's the same and find the computer station and t
+[SOS]KIRK: They say they can take your control officer?[EOS][SOS]SPOCK: I did what is all right, the fires to destroy the Enterprise, not to find out. And my ship in the only way to be a most unable to complete th
+[SOS]MCCOY: I think we can even know they can inform them to be pleasured by the starship Captain alive. All decks alert. All decks are waiting for old on the starship Enterprise. Spock here.[EOS][SOS]SCOTT [OC]: 
+[SOS]KIRK: And they want to know that it was the will of my planet.[EOS][SOS]KIRK: You take them to be true for a spaceship.[EOS][SOS]KIRK: Yes, what is it?[EOS][SOS]KIRK: No, the Enterprise to the bridge.[EOS][SOS]KIRK: Red alert. Phase
+[SOS]MCCOY: What do you want to report and you want no more exploration, the four hundred thousand years ago.[EOS][SOS]KIRK: You must be a problem. Your ship is aboard.[EOS][SOS]KIRK: I want to do my from the controls are
+[SOS]APOLLO: I don't think we can be a few more and I think we're all right?[EOS][SOS]SPOCK: The shuttlecraft laster to be disciplined by the main phaser weapons.[EOS][SOS]KIRK: What about the good and beam us to the very
+[SOS]MARTA: I don't know what happened to handle the planet seem to me.[EOS][SOS]KIRK: What do you make a little little one of your ship to control the surface. What is it?[EOS][SOS]SPOCK: It is the machine was telling me
+[SOS]SPOCK: Captain, the great planets were the captain from what we were transported this one who are more in this place.[EOS][SOS]KIRK: And how far as we're not a bit of an answer.[EOS][SOS]KIRK: We will do what I wante
+
+
+
+
+Epoch: 12 
+
+[SOS]KIRK: We can be destroyed us. We can see that he was already the medical log. I've come for all of us.[EOS][SOS]KIRK: I want to see him down in the bridge.[EOS][SOS]KIRK: I was telling the ship and decide when it sho
+[SOS]KIRK: You will report to the Vulcan decision is the better have a chance we'll be all right.[EOS][SOS]MCCOY: It's a superior and proper attack. It is not to be part of the ship. The Enterprise is so completed
+[SOS]KIRK: I'm sorry. If there can be healthy.[EOS][SOS]KIRK: You're a survived by a little strange.[EOS][SOS]KIRK: What is it you want to know it is a man of that specimen.[EOS][SOS]ONE: The Klingon was a simple disturbances whi
+[SOS]KIRK: I want to make it now. You're feelings. And he can't seem to be in the ship.[EOS][SOS]KIRK: Good. I'll be able to think that was in the ship. I have a reason.[EOS][SOS]SULU: Aye, sir.[EOS][SOS]KIRK: Mister Spock, I've 
+[SOS]KIRK: What do you want to know what it is, of course, Captain.[EOS][SOS]KIRK: That's the probe we can do that.[EOS][SOS]KIRK: Oh, no, no. It's what you're disabled. It can make you out of the security officer of the 
+[SOS]KIRK: Don't make a starship. I want to do with this, the last of the security team is the point, Mister Spock.[EOS][SOS]SPOCK: We can't let him die.[EOS][SOS]SPOCK: Captain, we were the screen.[EOS][SOS]CHEKOV: Captain, I wa
+[SOS]SPOCK: We don't know what you can do it again.[EOS][SOS]KIRK: Mister Spock?[EOS][SOS]SPOCK: It is the position to the Bridge. We need a record and someone on the surface. It will be all right. I'm sorry. I can do tha
+[SOS]KIRK: What is it? What is it? How can you have a complete display for a chance to go to the ship and still some sort of his opinion, Scotty.[EOS][SOS]SCOTT: They're trying to try and disrupt it. I want to kno
+[SOS]SPOCK [OC]: Not at all.[EOS][SOS]MCCOY: I can't know what they'll be out of the entire communicators. (the captain. Please be the first can assume that the search parties are getting the horrors of whatever i
+[SOS]KIRK: Then what about his command programming to see you, but I don't know what it on any unpleasant.[EOS][SOS]KIRK: You will not have happened to that madness to the computer can be some little conditions wi
+[SOS]KIRK: Now listen, no other ship is the captain is in the attack and he doesn't make a concentration of the universe. I'm afraid the entire planet is dead.[EOS][SOS]KIRK: What happened to your planet.[EOS][SOS]SCOTT: 
+[SOS]KIRK: The M-5 is all right. You and I am for you.[EOS][SOS]BOMA: I want them the attention to the planet's surface, we'll take this thing to start white being prepared, Captain.[EOS][SOS]KIRK: No one couldn't see how
+[SOS]MCCOY: Well, I was not too late.[EOS][SOS]SPOCK: I could not have a barrier and the interrogate of what I don't mind. I want to see you.[EOS][SOS]KIRK: Put it on again.[EOS][SOS]KIRK: But he can be sure it was trying to go a
+[SOS]KIRK: She can't be another signal.[EOS][SOS]UHURA [OC]: Captain Kirk?[EOS][SOS]KIRK: Yes, I don't think you're experienced to the ship. Can you go and I really have the ship.[EOS][SOS]SULU: Yes, sir. Standing by.[EOS][SOS]SCOTT: We 
+[SOS]KIRK: Kirk to Enterprise. Come in.[EOS][SOS]UHURA: Captain, the Enterprise is here by five hundred and fifty years ago.[EOS][SOS]KIRK: I want to be a shore leave?[EOS][SOS]PIKE: What are you going to discover there.[EOS][SOS]OXMYX: 
+[SOS]KIRK: Spock and Spock was a bad man.[EOS][SOS]SPOCK: I am not sure of the rest of the open.[EOS][SOS]KIRK: What is it you wanted to.[EOS][SOS]KIRK: What is this?[EOS][SOS]MUDD: No, not the captain to a perfect heart of a point of or
+[SOS]KIRK: If you don't think it will be an android by and this planet.[EOS][SOS]SULU: We can do for you.[EOS][SOS]KIRK: How do you feel it.[EOS][SOS]SPOCK: And that we've got to stay here. I'm sorry. I was forced to a ship was a
+[SOS]MCCOY: Jim, we're here and communications are not a traitor.[EOS][SOS]KIRK: I want to know what I saw. I was so sure than the computers, the service contact with the fact in the ship. She's an answer, Mister 
+[SOS]KIRK: Mister Spock. That could have learned the intercom of the security guard, Captain. It's a fact that it was wrong. I'm so very kind of the other case. I want to see it be a violent contact with t
+[SOS]KIRK: You said you wanted to see it believe that it was so well, Captain?[EOS][SOS]KIRK: And he was the same ship.[EOS][SOS]TRELANE: Oh, the nearest show you that what you said that was in the transporter room.[EOS][SOS]SPOC
+
+
+
+
+Epoch: 13 
+
+[SOS]SPOCK: It could have made me a problem in the ancient life forms.[EOS][SOS]SPOCK: I see that the others could love me.[EOS][SOS]KIRK: I don't intend to kill the twentieth century service. The design of the situation.
+[SOS]KIRK: What do you mean?[EOS][SOS]KIRK: What is it? Where is the way that should be no gained and the computers prepare to take a minute and the standard orbit, Captain.[EOS][SOS]KIRK: Yes. We're both of the standard 
+[SOS]SPOCK: Now if we continue the problem.[EOS][SOS]KIRK: Kirk here.[EOS][SOS]SULU: Aye, sir.[EOS][SOS]KIRK: Mister Spock.[EOS][SOS]SPOCK: If you can see that the proper of the street. You say they wish to stay alone. It is the man has 
+[SOS]KIRK: We're under control. In the interesting.[EOS][SOS]KIRK: No, Captain. You know you, Captain. I was so comprehending day. What do you mean, any form of production for the situation. Perhaps you'll find th
+[SOS]KIRK: What would they make a subject to the Companion.[EOS][SOS]KIRK: Well, I don't know.[EOS][SOS]KIRK: Come on.[EOS][SOS]SPOCK: I have a relative for you.[EOS][SOS]KIRK: The theory is going to be a million years to stay with him.[EOS]
+[SOS]SPOCK: Captain, I am in command of the Enterprise.[EOS][SOS]SCOTT: Aye, sir.[EOS][SOS]MCCOY: Well, it would seem to be a simple contact with the Captain. Receive of a course of the ship. I know what it is when I ofte
+[SOS]SPOCK: That is a good chance.[EOS][SOS]KIRK: We're all right. I have no choice. It is not a word with the people on the ship.[EOS][SOS]KIRK: Not a trained in my prime specimens and the planet is something at all.[EOS][SOS]KI
+[SOS]SPOCK: I don't know.[EOS][SOS]KIRK: The captain.[EOS][SOS]KIRK: I can't be a band of the devil, it is a matter of perfection. He was so telling the speed of other people and a strange force field and do nothing. I be
+[SOS]SPOCK: An androids and now he doesn't mean that is a possible contact with the computer for the first time is not the position of the point of things that get out of here.[EOS][SOS]KIRK: That could be one poi
+[SOS]KIRK: We will not to warn any other course to the ship's captain.[EOS][SOS]SPOCK: I wouldn't ask the controls, sit down as well as the rest of her instruments have done, to think that, you don't know, sir.[EOS][SOS]K
+[SOS]KIRK: Lieutenant Uhura, and Alexander, don't you think they're still hands of the starship. I'll continue the transporter room.[EOS][SOS]UHURA: Yes, sir.[EOS][SOS]KIRK: You seem to be the size of the transporter room
+[SOS]SPOCK: It would appear that she is a chance to be something about that the transporter room. I love you. I can't get that working on the course for McCoy to the Bridge.[EOS][SOS]KIRK: I don't know what is wha
+[SOS]KIRK: My prime speed. We can be all right. I'm not aware of these things.[EOS][SOS]KIRK: Are the computer reports that we are all right, Doctor.[EOS][SOS]KIRK: And if I had to be safe there.[EOS][SOS]KIRK: I'll be able to le
+[SOS]SPOCK: The heart of the starship captain, and I can't leave the guards and primitive the controls which present the fact I said that she means they say.[EOS][SOS]SPOCK: I could seem to be a peaceful situation
+[SOS]KIRK: She says it may be a replacement of the great planet. They will take a little, the woman and the antidote to the pain, I[EOS][SOS]KIRK: You're going to save the ship. And the surface, we will never tell
+[SOS]KIRK: It's a transporter officer.[EOS][SOS]KIRK: All right, Captain. What is your people of Gideon.[EOS][SOS]SPOCK: Captain, the others of the Enterprise and the entire signal is unable to say that. I've tried all th
+[SOS]MARTA: What are you going to be able to defend our contact with the explanation. Spock, are you all right?[EOS][SOS]MCCOY: Yes, I can't leave the same crew cannot talk to the hangar deck, Captain. I feel a tr
+[SOS]SPOCK: Yes. We can come from the prisoners with the creature with a member of the transporter room in ten minutes.[EOS][SOS]SPOCK: I should have destroyed the whole conditions are to stay.[EOS][SOS]MARTA: I don't kno
+[SOS]FARRELL: (sees the chance.[EOS][SOS]SPOCK: I have some time.[EOS][SOS]KIRK: And as you can to survive. An answer.[EOS][SOS]MCCOY: Spock, you are independently.[EOS][SOS]LAZARUS: That's why you were about the ship and protect him. Yo
+[SOS]KIRK: Where's Spock. I cannot change.[EOS][SOS]KIRK: They were still aboard the ship. You will not see it.[EOS][SOS]MCCOY: Do you read me?[EOS][SOS]KIRK: I would like to get them to his punishment. The orders and take over t
+
+
+
+
+Epoch: 14 
+
+[SOS]SPOCK: I can't seen any other man. The starship Enterprise.[EOS][SOS]KIRK: Bones. But it is the court is not some sort of the first signal again.[EOS][SOS]KIRK: But it was a transporter room. That's all I could take 
+[SOS]SPOCK: It is not a private the surface where the devil is a superior to the ship.[EOS][SOS]KIRK: We've recorded the Enterprise. You will cease to find a complete the special memories are tents and the challen
+[SOS]KIRK: The only one who'll have to find out what you can be considered the survivors are only fifty thousand years ago.[EOS][SOS]KIRK: Let's go.[EOS][SOS]SPOCK: Fascinating. I will have her and start the same thing.[EOS][SOS]
+[SOS]KIRK: Captain, this is the main energiants.[EOS][SOS]KIRK: Well, the same for the ship. I have some sort of transporter room is the last of our thought you say it will still tell us what the proper cause of t
+[SOS]KIRK: That's virtues and cure the ship.[EOS][SOS]KIRK: Yes, I know that you will all deck looks like this. We will come to the corridor which all the chances are only the last night and an order.[EOS][SOS]KIRK: Scott
+[SOS]KIRK: And you're a lot of us and the same thing is superior to the bridge of every day.[EOS][SOS]KIRK: And it seems to get the threat to the matter-antimatter pods are to be very fast.[EOS][SOS]SPOCK: Captain, I want
+[SOS]SPOCK: I am over the means they have no way in a computer record tapes are not going to have the medical ears. You were the Enterprise with the circumstances, and at the planet surface.[EOS][SOS]KIRK: Spock, 
+[SOS]KIRK: What is it?[EOS][SOS]SPOCK: A death, and I am all right. I was a mind to the space station and the strange ship is a princess that he's not a planet in the life-support systems. Mister Spock does not go
+[SOS]KIRK: It is such a starship and promising to step in fact.[EOS][SOS]SCOTT: I don't have some contact the ship on the first signal.[EOS][SOS]KIRK: Bele, no logic in her society to stay in the rest of the street change
+[SOS]SPOCK: The ship is not the only one with a remarkably interesting.[EOS][SOS]KIRK: Energise.[EOS][SOS]SPOCK: Probes have come in the way.[EOS][SOS]KIRK: The problem, Captain. We are in error. The stars are dead.[EOS][SOS]SPOCK: I do 
+[SOS]KIRK: Good. I am your ship. They stand to the transporter room take the power that it is.[EOS][SOS]GARTH: You may be a great deal of our sensors. It is the most unpleasant.[EOS][SOS]KIRK: I'm quite faced and counters
+[SOS]KIRK: What about the doctor of the space sections of the same and logical alternative on the surface.[EOS][SOS]KIRK: Then you're a mind to the ship.[EOS][SOS]KIRK: You said you were on the bridge.[EOS][SOS]SPOCK: We are not 
+[SOS]KIRK: Stay with her.[EOS][SOS]KIRK: That was in the record.[EOS][SOS]CHEKOV: I still have the galaxy of the rest of the ship and the captain and the children was the communications are inside for another medical men 
+[SOS]KIRK: I don't like that.[EOS][SOS]KIRK: And you think I have the time ago.[EOS][SOS]KIRK: Bones, how can you stay here, Captain. You want to stay here.[EOS][SOS]CHAPEL: But it was the same thing we can keep them back and the
+[SOS]KIRK: And the answers communications. All decks stand by to beam up. Get out of here.[EOS][SOS]KIRK: No, Mister Spock said you want to control a strong explaining the great path for a starship with the ship.[EOS]
+[SOS]KIRK: Enterprise. Come in.[EOS][SOS]SCOTT: Maintaining.[EOS][SOS]KIRK: Are you not a few minutes and the men were heading in the captain of this chamber, the conditions are not going to be a Romulan field to prove th
+[SOS]KIRK: But you must have happened to the world was a chance.[EOS][SOS]KIRK: Yes, that's a chance that was a bullet is going to try to continue to the ship, and a thing we can perfect seventy two starships and 
+[SOS]KIRK: We have made the arena.[EOS][SOS]MARPLON: What are you that thing is the captain is pretty complete course. He was in him.[EOS][SOS]COMPANION: I do not know. I am of the strangers.[EOS][SOS]KIRK: Scotty, we must unders
+[SOS]KIRK: We were to get you to the way that it is a most fire on the computer should be protected and working on the body.[EOS][SOS]KIRK: Mister Spock, it is the starship Enterprise.[EOS][SOS]SPOCK: I don't know. The bo
+[SOS]KIRK: The captain. You will come down to rest away. I think that I know you are so long. I can't beam down to the surface. They don't have that possibility of the ship.[EOS][SOS]KIRK: We can be the pain on yo
+
+
+
+
+Epoch: 15 
+
+[SOS]KIRK: Commodore Stocker will be dead in the mind to the ship, I don't know what you will find a woman, and I am under the power of the computer banks on a word for the phasers. Come on, Spock?[EOS][SOS]SPOCK:
+[SOS]SPOCK: The Enterprise is on the board will be a matter of all ship.[EOS][SOS]SPOCK [OC]: Enterprise to Captain Kirk.[EOS][SOS]KIRK: Scotty, stand by.[EOS][SOS]SULU: No, sir. She's at a little conditions.[EOS][SOS]SPOCK: We could be 
+[SOS]KIRK: Who are you going to do.[EOS][SOS]SCOTT: Originally sound through a member of the transporter room.[EOS][SOS]KIRK: Scotty, please hear them. And I am not going to have to be made to take a search for a signal f
+[SOS]KIRK: Mister Scott. We've made the time survive in the most problem.[EOS][SOS]KIRK: What is it?[EOS][SOS]SCOTT: Aye.[EOS][SOS]KIRK: Lieutenant Uhura, can you do it?[EOS][SOS]KIRK: I think I can do it. I think you're simply should be
+[SOS]KIRK: What was the same problem, Captain. Activate an armed people.[EOS][SOS]KIRK: All right, Mister Spock. It's been five. Strange condition of the ship, Captain. We have stated they want us to help you and 
+[SOS]SPOCK: The memorian can be emotional entity of the control parties become and the ship that wanted to answer the words of tricks. We must be arrived.[EOS][SOS]KIRK: What do you can think of you.[EOS][SOS]KIRK: Explai
+[SOS]SCOTT: But I'm going to contact the ship, sir.[EOS][SOS]KIRK: Completely interesting of the transporter room. And why we are simply destroyed it.[EOS][SOS]SPOCK: It is a fool. I have no reason for a while. Starfleet 
+[SOS]KIRK: You see. It is a defence that the Medusan in the ship with the power levels to the computer will die that they were called the problem with me. I'm an order. See if you don't like them to explai
+[SOS]KIRK: Scotty, starship Enterprise. All right, Captain. They'll never are the same conditions are to reach a statement when they want to get back to the ship.[EOS][SOS]MCCOY: Well, they all give a minute the s
+[SOS]KIRK: Can you have the storm does not explain it.[EOS][SOS]KIRK: The heart is the starship Enterprise.[EOS][SOS]SCOTT [OC]: It was one of the biochemical conditions are my problem.[EOS][SOS]SPOCK: I have no experience.[EOS][SOS]KIRK
+[SOS]KIRK: It's too late that the decks are mad.[EOS][SOS]MCCOY: You have the survivors are from the last one for an event and bring us to see the interference with the matter and crew aboard the ship. I think so.
+[SOS]KIRK: What is it?[EOS][SOS]SPOCK: There is no meteor collapse. And you will see to you.[EOS][SOS]KIRK: Mister Spock, it was the world of the same damage to the ship at all to the Enterprise will be found the starship
+[SOS]SPOCK: That is a sense of a part of the sun.[EOS][SOS]KIRK: Spock, the more a beaten to join me.[EOS][SOS]KIRK: All right, all right, all right. I don't know.[EOS][SOS]KIRK: Spock, you will be said the thing you were right t
+[SOS]MENDEZ: And the Enterprise is not ours.[EOS][SOS]KIRK: All right, it was your present conditions.[EOS][SOS]KIRK: Dunsel as any of the way the others sixty percent beings the wildren are to divert to the people who do
+[SOS]KIRK: All right, all right. The androids are on the things that you can't see it that you'll be relatively to speak to you. The prisoners was my friends. They did not. It would be pleased to destroy i
+[SOS]KIRK: I see it to the planet could have attacked you.[EOS][SOS]MCCOY: Scotty, you think I was wondering the basic approaching the best. Get the ship's computer can be on the planet surface, and I can see it.[EOS]
+[SOS]SPOCK: There's nothing out of the ship to the screen.[EOS][SOS]SPOCK: In the ship is a report.[EOS][SOS]MCCOY: He's dead.[EOS][SOS]KIRK: All right, Doctor.[EOS][SOS]MCCOY: The first officer was a signal. What is it? Where are we doi
+[SOS]KIRK: What is it?[EOS][SOS]SPOCK: It was the time now. The entire and suit) Are you a starship can be gone.[EOS][SOS]SPOCK: Commodore Stocker will be a lot of war is a base.[EOS][SOS]KIRK: You seem to be a simple contact wit
+[SOS]KIRK: At least it was the statement is the planet. We must have a tricorder readings now. We're not going to go to the bridge.[EOS][SOS]SULU: Mister Spock, I wouldn't be in trouble.[EOS][SOS]KIRK: That's impossible.[EOS]
+[SOS]KIRK: Yes, I know.[EOS][SOS]KIRK: I don't know.[EOS][SOS]KIRK: You think we're going to survive.[EOS][SOS]KIRK: And the first thing will be a slave in my men have a strange in the landing party.[EOS][SOS]KIRK: That's all right, Capt
+
+
+
+
+Epoch: 16 
+
+[SOS]KIRK: Enterprise. Spock to Captain Kirk.[EOS][SOS]KIRK: I don't know. Just find them out of here who be able to see you in the gods?[EOS][SOS]KIRK: Very well. Please almost discovered the other condition.[EOS][SOS]KIRK: Stan
+[SOS]CHAPEL: Are you saying that it is it happened to your control on the ship, and I wouldn't be here, and I want the record of the planet must be a day I can be all right here and some time.[EOS][SOS]MENDEZ: I d
+[SOS]SPOCK: Captain, you're not been my problem.[EOS][SOS]KIRK: The attitude of the mind, and we have to show you to discover the man and destroy it.[EOS][SOS]SPOCK: The transporter room in the bridge of the Enterprise, t
+[SOS]KIRK: We don't want to stay away from the rest.[EOS][SOS]KIRK: Something is a man and the computers are a prisoner. And if it's enough to serve the terrible things, Mister Spock. I've never get ready to beam 
+[SOS]SPOCK: I shall be the one thing that doesn't waste of the matter. I may be a lot of correct, Captain. The rest of your phasers to Security guards without the blinding on the double. I don't understand
+[SOS]PIKE: You seem to be a simple things about the transporter room immediately.[EOS][SOS]MCCOY: I can see it? The bottom) He will be a matter of problems of the ship and they were perfectly carefully confirmatio
+[SOS]KIRK: Mister Sulu, where they're sitting the people of the ship?[EOS][SOS]MCCOY: It's a bad to an interesting.[EOS][SOS]KIRK: That's all that it was only a few moments were all over the star ship. I want to have the 
+[SOS]SPOCK: I see no time for a while to all of the moment to leave him and get to Mister Sulu, you must have you gotten up anything the captain.[EOS][SOS]KIRK: I'm ready to beam up. We've got to come with me.[EOS][SOS]KI
+[SOS]KIRK: We're here, the nearest last possible that we shall destroy the Enterprise. But it killed the computer systems.[EOS][SOS]SPOCK: It could be a lie.[EOS][SOS]SPOCK: It would be realised for a look at the antimatt
+[SOS]SPOCK: Doctor McCoy, the woman, we will stay here.[EOS][SOS]KIRK: Scotty, is the first problem that the proves we do that.[EOS][SOS]KIRK: All right, Spock.[EOS][SOS]SPOCK: The chances in the gravity?[EOS][SOS]KIRK: It's a shield of 
+[SOS]KIRK: We could have been something there, when I can't do that.[EOS][SOS]KIRK: We're being held in the man with me. I've seen a starship with the interesting energy tractor beam aboard this ship to divert my 
+[SOS]KIRK: They can read the life-support systems.[EOS][SOS]MCCOY: The fight on the surface, he was a lot of the things that we've got to the ship like that. The force field is to see you and the ship, has not att
+[SOS]KIRK: And the planet is complete.[EOS][SOS]SPOCK: I do not this much freedom.[EOS][SOS]MCCOY: I don't know what we've always wanted to do it to the ship. The readings are to see the personal state of the ship.[EOS][SOS]KIRK:
+[SOS]KIRK: All right, Spock. We're going to have a whole planet is a real the part of your part of your statement. It's not a dead man.[EOS][SOS]MCCOY: Well, I'm trying to contact the ship. I was a picture of the 
+[SOS]BAILEY: Yes, sir.[EOS][SOS]KIRK: Report on the ship. I can't get into the name of me. I want to know what they were being completely. It is dead. That's what we can do to stay alone. You will be an actor they
+[SOS]CHEKOV: Aye, sir.[EOS][SOS]KIRK: Kirk to Enterprise. Come in. It is a pattern communications. I don't understand.[EOS][SOS]KIRK: You have a strong planet seems to be in the only one of the creature and a few moments.
+[SOS]KIRK: No need to get the theory.[EOS][SOS]SPOCK: I can't say that I don't know if we had to stay away from us. If they will be in an android beams of the planet is put out of the planet seems to be a while ag
+[SOS]KIRK: Or is it there and the impulse engines with the device?[EOS][SOS]SPOCK: The men are the winking of a colony, I think we can be some doubt if the captain stands and home in the devil are more important t
+[SOS]KIRK: Well, I don't understand, and we'll be able to do that. The Defiant was being under orders and fight me to contact the strain of the check on our planet. I did not be some strange simple reports
+[SOS]KIRK: How long will the transporter room.[EOS][SOS]KIRK: I'm sorry, sir. I wouldn't let him reason to stay here and the impostor is the creature of the power in the bridge. It's for such a traitor on the surf
+
+
+
+
+Epoch: 17 
+
+[SOS]KIRK: The ship's sensors indicate a starship being a converted and interesting.[EOS][SOS]KIRK: Are you sure we can take the asteroid ship. The decision they could say and the man would be far back to the plan
+[SOS]KIRK: You're not to be completely sure to be saving a month. I'm not allowed to see the world and show the ship of chances.[EOS][SOS]KIRK: Then they would have to be a bandage of reception of the planet's sur
+[SOS]KIRK: Well, we can do anything to tell them here. Let that station. Come along, the crew would be safe to show you.[EOS][SOS]SPOCK: It is the power to see it happen to be a lie. It is the same way the strange
+[SOS]KIRK: I can't go on the girl. I didn't get it. I won't have those people are not a statement. I have to respond to the people on the conditions. They look up there. We could do something to do with th
+[SOS]KIRK: Yes, it's a starship on this ship of the second and the others who are not ready to beam up.[EOS][SOS]MCCOY: It's a simple and people. It is not feelings of stone end of this is a search of the record t
+[SOS]KIRK: What was the creature is possible that we can see the book now in a moment. We have no signal from the planet in a shot in this situation is to assume the present readings are not in the new rea
+[SOS]SPOCK: Gentlemen, the computer systems are uniforms.[EOS][SOS]KIRK: I don't know what that is a thing into the power to see that you mean they weren't superior to the ship.[EOS][SOS]SPOCK: I am a game in the most sur
+[SOS]KIRK: I don't know what the words of the men and pursuing the readings are not probably right, and you're a force field is to destroy the computer.[EOS][SOS]COMPUTER: I have to make a girl show you to ask the
+[SOS]MCCOY: What do you want from the Talos star group of the Organians can't investigate the ship and days ago, Captain. We're making it can see the men are to take you to the transporter room on the reco
+[SOS]KIRK: There's been the greatest position and neural report for the sympathy for a moment you on the bridge, Captain. You will find a few minutes of the transporter room.[EOS][SOS]KIRK: Energise.[EOS][SOS]SPOCK: Stand
+[SOS]KIRK: Yes, we can see that they want to help you. I can't get the colony. There's no explained him on the computer has told me in the transporter room to one attack in the Enterprise. I am the securit
+[SOS]CHAPEL: Doctor McCoy, Mister Sulu. Mister Spock.[EOS][SOS]SPOCK: A blonde galaxy. They wish to find out what I had it at all, Captain. Come on, Mister Spock. I want the computer and make me the strange sensor
+[SOS]SPOCK: You may report to the ship. Prepare to take the trial because they were on the time is over.[EOS][SOS]GARTH: It is a trained to the planet Vulcan and start for the ship is to be changed course. It will
+[SOS]SPOCK: Yes, Captain.[EOS][SOS]KIRK: Mister Scott, he's murdered, it was an armed personal problems with me as they're not of the starship Enterprise.[EOS][SOS]KIRK: Stand by to find the people have done to me.[EOS][SOS]KIRK:
+[SOS]SCOTT: Aye, it is the entire Captain. Records of weapons.[EOS][SOS]SCOTT: And the other ways and see the secret.[EOS][SOS]KIRK: Yes, I know. They wouldn't be something to do with that thing at all and closing.[EOS][SOS]SPOCK
+[SOS]SPOCK: I have a reading on the strange ship is still at all.[EOS][SOS]SPOCK: I am an explained. I promise you and we lost your ship, Mister Chekov.[EOS][SOS]CHEKOV: A command of the stupid of a lie.[EOS][SOS]KIRK: You can't 
+[SOS]SPOCK: The signal for the first to be completely interesting.[EOS][SOS]KIRK: Kirk to Engineering. McCoy and Spock is not a ship of the reports and the other hand, I would have been the transporter room immedi
+[SOS]KIRK: Yes, I know, and we are being of consideration of what purpose fleet, but they seem to be too late to be transported into the bridge.[EOS][SOS]SCOTT [OC]: We must die. I may be a beautiful with the anci
+[SOS]KIRK: You'll stay alive and feel and a catalyst.[EOS][SOS]SCOTT: No sign of said that the precious power is studying the ship and start destroyed the bridge. Come in, please. Fire and can six men will prove t
+[SOS]SPOCK: I am a man of the ship at all. That is that a starship with the record tapes are unnecessary.[EOS][SOS]KIRK: Compensate and the leader of the moment. You will assume that no sign of the force field of 
+
+
+
+
+Epoch: 18 
+
+[SOS]KIRK: I don't know what to do with the Enterprise is out of the planet.[EOS][SOS]KIRK: All right, Doctor, you know the power of the space station.[EOS][SOS]UHURA: Aye, sir.[EOS][SOS]KIRK: And we're coming in by outer command
+[SOS]KIRK: You say it was the ship's engines are not to be a ship that we can go and control the principles and people and the other man. I'm the only way I can get to the planet seems to be a world it a s
+[SOS]KIRK: The production of the computer has a matter of the interrogation of the planet beam in the engines, sir. I must distress call the result of the ship. It was unfamiliar. May I come from, and make
+[SOS]SPOCK: You're not a time of the prisoner to control to the heart. We can see how they do not even stop it. I'm sure you've got to find them under the record.[EOS][SOS]KIRK: I will assume that the computers, t
+[SOS]MARLA: Yes.[EOS][SOS]KIRK: Mister Spock, you can't be sufficient officer in the planet can cure the species interesting properly.[EOS][SOS]KIRK: Why did you say that. I'm sorry, sir. I do not know that I can do about
+[SOS]MCCOY: I can't get to the bridge. Spock, the future makes no excuse for the planet surface seems to have an environment, Captain.[EOS][SOS]KIRK: Kirk to Enterprise. Come in.[EOS][SOS]SULU: Warp factor one.[EOS][SOS]SPOCK: In
+[SOS]KIRK: What do you think you do it?[EOS][SOS]SPOCK: I failed to see the computer standing by, sir.[EOS][SOS]SPOCK: The androids are being intended to the planet's surface. We were still have a transport on the starshi
+[SOS]KIRK: Mister Spock, I want to see the security command of the Enterprise. The computers of this planet.[EOS][SOS]KIRK: This is Scott.[EOS][SOS]SCOTT: Mister Spock. You do not try.[EOS][SOS]KIRK: I'm the point where they're f
+[SOS]MEA: What are you doing to us? I don't have a controlled the planet. There was a computer.[EOS][SOS]SPOCK: It is in the bridge.[EOS][SOS]KIRK: Come in. Come in.[EOS][SOS]SULU: Warp factor two, sir.[EOS][SOS]KIRK: The storm was the c
+[SOS]KIRK: They took a starship in that manner, Mister Spock.[EOS][SOS]SPOCK: The most proof is correct. It can't be set like yourselves.[EOS][SOS]MCCOY: I was in the vessel. What is it?[EOS][SOS]SPOCK: And now you are.[EOS][SOS]KIRK: Mi
+[SOS]KIRK: What worries me and the one in the planet will be to be a survivors and the stars.[EOS][SOS]SPOCK: Engineering, deck five. What is it?[EOS][SOS]UHURA: I can't operate before the weapon there is a mass of transp
+[SOS]MCCOY: Mister Spock, I overload us to consider the surface of the Federation.[EOS][SOS]KIRK: All right, Chekov.[EOS][SOS]CHEKOV: It is, it won't work.[EOS][SOS]SPOCK: I don't know whether they were on the planet surface that
+[SOS]SPOCK: Not at all.[EOS][SOS]KIRK: And you won't say anything you can do to me. I have to be punishable. You will be taken from the specimens to the people and when we seem to be a crystals in the warp engines
+[SOS]SPOCK: Acknowledged. Computer on the bridge. And the sun at the point. One of them on the planets. I want to know what to do with the computer banks to the transporter room standing by.[EOS][SOS]SCOTT: No, no
+[SOS]SPOCK: Captain, I am the security detail. No. I was the Captain of the Enterprise. Keep the court and here and the paralysis ship. I want to do to us. I want to know why you can do about the creator i
+[SOS]KIRK: That's what we're going to have to take a look at that. And the sound of bodies. And the ship is over.[EOS][SOS]CHEKOV: The sun at the specimen is the shock of the ship's power is in the ship. They took
+[SOS]KIRK: I don't think it was a defend your orders and the readings of the planet to the ship to go to the ship.[EOS][SOS]SPOCK: The thing is your destination, Mister Chekov.[EOS][SOS]CHEKOV: Computed. Stand by. I'm sea
+[SOS]KIRK: Well, I don't remember. I'm the one than that logic in the ship's computers are dead.[EOS][SOS]MCCOY: I don't know. That's what you can to have a disrupted the specimens to make the ship is completely s
+[SOS]KIRK: We won't have to do anything to see you now, sir. I'll see it to me. I can't see the security residual radiation was a stuff.[EOS][SOS]KIRK: Could I want to know what it is. Come in.[EOS][SOS]SCOTT: Scott here.
+[SOS]KIRK: I don't like this. You were a control cannot be in there?[EOS][SOS]MCCOY: I used to test it to you.[EOS][SOS]KIRK: All right, Spock. I've been in the heart, Mister Spock. It's not warp speed, it was a great dea
+
+
+
+
+Epoch: 19 
+
+[SOS]KIRK: What is the most superior solar system.[EOS][SOS]MCCOY: I'm sorry, Doctor. And then seems to be a histories of Captain Kirk of the Enterprise. The mark of a starship with the Federation from the wind is
+[SOS]KIRK: Spock, you're all right?[EOS][SOS]KIRK: I don't know what he's frozen.[EOS][SOS]DEELA: I don't believe that we have to see me and in contact with the Federation. And if you got a shot at the starship Enterprise
+[SOS]KIRK: Then the matter?[EOS][SOS]SPOCK: It are you doing here?[EOS][SOS]SPOCK: I was going to do with the handsome distress call the rest of the problems of the ship. The same way we see how the last of the transmissi
+[SOS]KIRK: Lock on to me.[EOS][SOS]KIRK: If you cannot be made up to the service.[EOS][SOS]KIRK: It's a command of the Enterprise is about to go to the ship. A second of distance is the first to be a mind-link with him. I
+[SOS]KIRK: You said you were the control room. All the ship's power to your sensors.[EOS][SOS]KIRK: Scotty, here we are to be completely prepared to exist in the bridge. Come in.[EOS][SOS]SPOCK: And the rest of his power.
+[SOS]KIRK: There is no time for the sky. There's a matter of things are an unpressed in the transporter completely sorry.[EOS][SOS]KIRK: Will you get in the floor! Do you really have you heard the planet's surface
+[SOS]KIRK: A disaster will be able to see your assession of this planet is carrying of the way to stop him. I don't know. I don't know. There are the tears and the ship and a very nice in the control part 
+[SOS]MCCOY: Well, you've got the man with the ship to your planet is a complete decision to see you. The second report. The ship is fascinating.[EOS][SOS]SPOCK: You will remain here at all. All the planet surface.
+[SOS]KIRK: That's one of them.[EOS][SOS]KIRK: Why? I'm the first to be a trained for the planet is the commander of the Fuhrer's minute. At least not only the matter?[EOS][SOS]SPOCK: Captain, you do not like the word of t
+[SOS]SPOCK: I can tell me what you can see how the ship's phasers ready.[EOS][SOS]SULU: The survivors, removed the ship's sensors indicate the more compartments.[EOS][SOS]KIRK: Computer.[EOS][SOS]SPOCK: A reaction to your service
+[SOS]KIRK: Scotty, she may never see the command of the starship Enterprise to Starfleet Command. It will be able to discover that we could take over. What are you doing here?[EOS][SOS]KIRK: The deflectors are all
+[SOS]KIRK: That's it. You will be the transporter room.[EOS][SOS]KIRK: The memory banks are face, sir, but there's a very good long do you think they say nothing has to be a call partial story.[EOS][SOS]KIRK: Excellent. W
+[SOS]SPOCK: I have a record of the First Officer to be experience.[EOS][SOS]KIRK: The force field and prove it.[EOS][SOS]KIRK: Security alert. There was a while.[EOS][SOS]MCCOY: What's that?[EOS][SOS]CHARLIE: I am Kirok! I do not underst
+[SOS]SPOCK: We do not want the ship. And how did you say I can see the safety of the Enterprise. Spock here.[EOS][SOS]SPOCK: The energy on a single station on the Enterprise. A moment, please.[EOS][SOS]SPOCK: Captain, I w
+[SOS]KIRK: Why not?[EOS][SOS]SPOCK: I do not want them. I see you like yourself. What is it?[EOS][SOS]SPOCK: I do not make of the oxygen substances in this court here. Spock, I have the ship in this computer, to be done.[EOS]
+[SOS]SPOCK: I shall one to beam down there are the only one who was explained the alien ship, Captain.[EOS][SOS]SPOCK: It would seem to have a ship of our bodies. We're not a man who disappeared in a place to spea
+[SOS]SPOCK: Yes.[EOS][SOS]MCCOY: Computer. Come in. Come in.[EOS][SOS]KIRK: Good. Let's go.[EOS][SOS]SPOCK: Insufficient data for control and being realined. It was not the way that your ship is already forced the ship of this sh
+[SOS]KIRK: Good. I am permitted, and there, or is it really happen to my people to stop him.[EOS][SOS]SPOCK: I won't be able to warp out of the computer started some time to develop the ship's computer can find th
+[SOS]CHEKOV: I am on the starship Enterprise. It's a man and the creature the same physical analysis should be able to achieve orbit, sir.[EOS][SOS]KIRK: Good. Go ahead, Mister Spock.[EOS][SOS]SPOCK: But not are the entir
+[SOS]KIRK: Not on my control.[EOS][SOS]SPOCK: The captain? Shall we need it?[EOS][SOS]KIRK: Where's the starship Enterprise. Now, that they are in order to beam up and strong scanners report to the landing party and some 
+
 
 
 

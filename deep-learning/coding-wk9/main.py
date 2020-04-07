@@ -11,7 +11,7 @@ class Config:
     device = 'cuda:2'
     num_layers = 2
     trn_pct = 0.8
-    batch_len = 17
+    batch_len = 33
 
 def get_data(config):
     data = pd.read_csv(config.data_dir)
